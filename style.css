@@ -1,0 +1,27 @@
+#mainContainer{
+   font-family: Arial, Helvetica, sans-serif;
+   max-width: 400px;
+   margin: auto;
+   margin-top: 100px;
+   background-color: silver;
+   padding: 30px;
+   border-radius: 15px;
+   border-style: groove;
+}
+
+input{
+    border-radius: 10px;
+    width: 100%;
+    display: block;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+button{
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
